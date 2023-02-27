@@ -1,0 +1,154 @@
+body{
+    margin: 0;
+    background-color: rgba(39, 38, 36, 1);
+    font-family:'Montserrat', sans-serif
+}
+.head{
+    max-width: 100%;
+    height: 70px;
+    background-color: rgba(0, 0, 0, 1);
+    margin: 0;
+}
+.logo  img{
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    width: 240px;
+}
+.text{
+    font-size: 35px;
+    font-weight: 300;
+    color: white;
+    position: absolute;
+    left: 479px;
+    top: 15px;
+}
+.logo1 img{
+    position: absolute;
+    left: 1277px;
+    width: 50px;
+    top: 10px;
+}
+.telo{
+ 
+}
+.parfum{
+    font-size: 40px;
+    font-weight: 500;
+    color: rgba(189, 159, 82, 1);
+    position: absolute;
+    left: 315px;
+    top: 130px;
+}
+.cart{
+    justify-content: center;
+    display: flex;
+}
+.cart1{
+    padding-right: 60px;
+    padding-top: 150px;
+}
+.carts{
+    justify-content: center;
+    display: flex;
+    position: relative;
+    bottom: 100px;
+}
+.news{
+    position: absolute;
+    top: 830px;
+}
+.newmg{
+    position: absolute;
+    left: 350px;
+    top: 230px;
+}
+.n1{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+.tx{
+    font-size: 20px;
+    font-weight: 500;
+    color: white;
+    position: absolute;
+    left: 10px;
+    top: 280px;
+    line-height: 20px;
+}
+.newmg1{
+    position: absolute;
+    left: 750px;
+    top: 230px; 
+}
+.newmg a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    transition: 0.3s linear;
+}
+.newmg a:hover{
+    color: rgba(189, 159, 82, 1);
+}
+.newmg1 a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    transition: 0.3s linear;
+}
+.newmg1 a:hover{
+    color: rgba(189, 159, 82, 1);
+}
+.you{
+    position: absolute;
+    top: 1400px;
+}
+.y1 iframe{
+    border-radius: 22px;
+    width: 350px;
+    height: 290px;
+    position: absolute;
+    top: 250px;
+    left: 320px;
+}
+.y1{
+    position: absolute;
+    left: 30px;
+}
+.yy{
+    position: absolute;
+    left: 400px;
+}
+.and{
+    position: relative;
+    top: 1200px;
+    max-width: 100%;
+    height: 70px;
+    background-color: rgba(0, 0, 0, 1);
+    margin: 0;
+}
+.cartt{
+    position: absolute;
+    left: 315px;
+    padding-top: 150px;
+}
+.opis{
+    font-size: 30px;
+    font-weight: 600;
+    color: rgba(189, 159, 82, 1);
+    position: absolute;
+    left: 650px;
+    top: 200px;
+}
+.inf1{
+    font-size: 20px;
+    font-weight: 400;
+    color: white;
+    position: absolute;
+    left: 650px;
+    top: 250px;
+}
+p{
+    color:rgba(177, 187, 167, 1);
+}
